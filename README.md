@@ -1,1 +1,1 @@
-[Github Page: ](https://jitendra300.github.io/plainfolio/)
+[Github Page](https://jitendra300.github.io/)
